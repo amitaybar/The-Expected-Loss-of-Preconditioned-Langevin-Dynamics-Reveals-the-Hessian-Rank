@@ -1,5 +1,5 @@
 # The-Expected-Loss-of-Preconditioned-Langevin-Dynamics-Reveals-the-Hessian-Rank
-This is the code for the paper "The Expected Loss of Preconditioned Langevin Dynamics Reveals the Hessian Rank", AAAI 2024
+This is the code for the paper "The Expected Loss of Preconditioned Langevin Dynamics Reveals the Hessian Rank", A. Bar*, R. Mulayoff*, T. Michaeli, R. Talmon, AAAI 2024
 
 The first file to be run is LinearNets.py. It creates the data for the linear NN experiment. The data can be saved in the working directory or moved to a 'results' directory.
 
